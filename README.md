@@ -1,2 +1,3 @@
 # question-resources
-Contains URL link of question that I found on the internet
+### Big O notation question
+* https://www.fullstack.cafe/interview-questions/big-o-notation
